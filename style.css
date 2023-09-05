@@ -155,3 +155,7 @@ h1{
     color: rgb(44, 39, 39);
     font: weight 1000px;;
 }
+#test{
+    background-image: url(https://media.istockphoto.com/id/585488832/photo/typing-on-laptop-closeup-chatting-in-facebook.jpg?s=612x612&w=0&k=20&c=F1CFXCZniDfKWNWi7xH8Q9sHD5-mcESIeVcDbY7OYOA=);
+    background-size: 100%;
+}
