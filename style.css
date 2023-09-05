@@ -1,0 +1,157 @@
+
+.text{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.txt{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(168, 164, 164);
+}
+#type{
+    height: 40px;
+    width: 180px;
+    margin-left: 310px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+#time{
+    height: 40px;
+    width: 180px;
+    margin-left: 310px;
+    border-radius: 5px;
+}
+#page{
+    align-items: center;
+    height: 500px;
+    width: 800px;
+    background-image: url(https://beebom.com/wp-content/uploads/2021/04/10-Best-Typing-Test-Websites-to-Check-Your-Typing-Speed.jpg?w=750&quality=75);
+    background-repeat:round;
+    margin-left: 350px;
+    border-radius: 10px;
+    margin-top: 100px;
+}
+#btn{ 
+    width: 100px;
+    border-radius: 20px;
+    padding: 5px;
+    margin-left: 350px;
+    color: white;
+    border: none;
+    background-color: rgb(15, 146, 98);
+}
+#btn1{ 
+font-size: 20px;
+    width: 90px;
+    height: 30px;
+    border-radius: 20px;
+    padding: 3px;
+    margin-left: 650px;
+    color: white;
+    border: none;
+    background-color: rgb(15, 146, 98);
+}
+#btn2{ 
+    margin-top: 20px;
+    font-size: 20px;
+        width: 90px;
+        height: 30px;
+        border-radius: 20px;
+        padding: 3px;
+        margin-left: 750px;
+        color: white;
+        border: none;
+        background-color: rgb(15, 146, 98);
+    }
+
+#para{
+    height: 100px;
+    border:1px solid black;
+    width:50%;
+}
+#content{
+    border:1px solid black;
+    font-weight: 400;
+    font-size: 30px;
+    margin: 60px 340px;
+    background-color: rgb(148, 169, 214);
+}
+   
+    
+
+
+   
+    
+
+div.scroll {
+    margin:4px, 4px;
+    padding:4px;
+    background-color: rgb(97, 151, 176);
+    width: 800px;
+    height: 300px;
+    overflow-x: hidden;
+    overflow-y: auto;
+    text-align:justify;
+}
+#typehere{
+    height: 100px;
+    background-color: aqua;
+}
+#typed_content{
+    font-size: 20px;
+    margin-left:340px;
+    width: 800px;
+}
+#timer{
+    
+    font-size: 30px;
+    margin-left:700px;
+
+}
+#datas{
+    height: 300px;
+    width:70%;
+    border:1px solid black;
+    background-color: rgb(148, 169, 214);
+    margin-left: 220px;
+    margin-top: 40px;
+    display: flex;
+    color: rgb(53, 53, 53);
+    
+
+}
+#g{
+    
+    height: 160px;
+    width: 190px;
+    margin-left: 140px;
+    color: rgb(53, 53, 53);
+    
+    text-align: center;
+    font-size: 25px;
+}
+#body{
+    
+        background-image: url(https://www.freepik.com/free-photos-vectors/typing);
+        background-size: 100%;
+    
+}
+#gross{
+    font-size: 45px;
+}
+#net{
+    font-size: 45px;
+}
+#accuracy{
+    font-size: 45px;
+}
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    color: rgb(44, 39, 39);
+    font: weight 1000px;;
+}
