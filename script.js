@@ -216,15 +216,15 @@ function timing()
   var incorrect_words = Math.floor(new_words.length - correct_words)
   
   
-  var gross_speed = Math.floor((new_words.length)/1)
+  var gross_speed =new_words.length
   sessionStorage.setItem("gross",gross_speed)
   
-  var netspeed = Math.floor((correct_words)/1)
+  var netspeed = (correct_words)/1
   sessionStorage.setItem("net",netspeed)
   
   
   
-  var accuracy = Math.floor((netspeed*100)/gross_speed)
+  var accuracy = Math.floor((correct_words/gross_speed)*100)
   sessionStorage.setItem("acc",accuracy)
   
   
