@@ -1,4 +1,4 @@
-var gross_data = sessionStorage.getItem("gross")
+var gross_data = sessionStorage.getItem("gross")...............
 var net_data = sessionStorage.getItem("net")
 var acc_data = sessionStorage.getItem("acc")
 
