@@ -126,16 +126,6 @@
 
   
 
-// function exit()
-// {
-   
-//     window.location.href = "index.html"
-// }
-// function restart(){
-    
-//     window.location.href = "index.html"
-// }
-
 
 var  passages = [
       [
