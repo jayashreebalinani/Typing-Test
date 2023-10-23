@@ -1,15 +1,6 @@
 
 
-  
-//   var str = ''
-
-// var correct_letters = 0;
-// var incorrect_letters = 0;
-// var old_words = []
-// var new_words = []
-// var correct = 0;
-
-// //var time_data = document.getElementById("timer")
+// = document.getElementById("timer")
 // var timed = 0;
 // var seconds=60;
 // var timer;
