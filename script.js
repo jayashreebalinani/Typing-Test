@@ -44,7 +44,6 @@ function timing()
          event.preventDefault() 
 
       }
-
 }     
   if(seconds < 60) { 
     document.getElementById("timer").innerHTML = seconds;
