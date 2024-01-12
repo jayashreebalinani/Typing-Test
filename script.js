@@ -73,7 +73,7 @@ function timing()
   
   }
   
-  
+
   var incorrect_words = Math.floor(new_words.length - correct_words)
   
   
