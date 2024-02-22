@@ -148,3 +148,4 @@ sessionStorage.setItem("acc",accuracy)
  window.location.href="main1.html";
 
 }
+
