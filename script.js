@@ -144,7 +144,6 @@ var accuracy = Math.floor((netspeed*100)/gross_speed)
 sessionStorage.setItem("acc",accuracy)
 
 
-
  window.location.href="main1.html";
 
 }
