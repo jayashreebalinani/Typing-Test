@@ -6,7 +6,6 @@ document.getElementById("gross").innerText = gross_data
 document.getElementById("net").innerText = net_data
 document.getElementById("accuracy").innerText = acc_data + "%"
 
-
 function restart(){
     window.location.href="index.html"
 }
